@@ -22,7 +22,7 @@ Here's a suggested naming convention for images:
  
 **[VENDOR]-[MAIN SOFTWARE]-[OPERATING SYSTEM]:[TAG]**
 
-*XXX-YYY-ZZZZ:N.N.N.N-N.N.N.N = [3-3-4]:[7-7]*
+**XXX-YYY-ZZZZ:N.N.N.N-N.N.N.N = [3-3-4]:[7-7]**
 
 Where XXX: Are 3 letters from the image vendor. 
 
@@ -41,8 +41,9 @@ Windows Server 2016.
 
 # Naming convention for Containers - Examples
 
-[VENDOR]-[MAIN SOFTWARE]-[OPERATING SYSTEM]_[VERSION]
-XXX-YYY-ZZZZ_N.N.N.N-N.N.N.N = [3-3-4]_[7-7]
+**[VENDOR]-[MAIN SOFTWARE]-[OPERATING SYSTEM]_[VERSION]**
+
+**XXX-YYY-ZZZZ_N.N.N.N-N.N.N.N = [3-3-4]_[7-7]**
 
 Examples: 
 
