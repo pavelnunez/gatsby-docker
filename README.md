@@ -24,7 +24,7 @@ Here's a suggested naming convention for images:
 
 **XXX-YYY-ZZZZ:N.N.N.N-N.N.N.N = [3-3-4]:[7-7]**
 
-Where XXX: Are 3 letters from the image vendor. 
+      Where XXX: Are 3 letters from the image vendor. 
 
       YYY: Are 3 letters from the image main software.
 
