@@ -21,10 +21,9 @@ inside Docker.
 
 Here's a suggested naming convention for images: 
 
-```code 
 [VENDOR]-[MAIN SOFTWARE]-[OPERATING SYSTEM]:[TAG]
 XXX-YYY-ZZZZ:N.N.N.N-N.N.N.N = [3-3-4]:[7-7]
-``
+
 Where XXX: Are 3 letters from the image vendor. 
       YYY: Are 3 letters from the image main software.
       XXXX: Are 4 letters from the OS used to build the image. 
